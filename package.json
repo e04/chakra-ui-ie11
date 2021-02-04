@@ -2,6 +2,7 @@
   "name": "chakra-ui-ie11",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@chakra-ui/icons": "^1.0.1",
     "@chakra-ui/react": "^1.2.1",
