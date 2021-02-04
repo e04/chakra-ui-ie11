@@ -12,6 +12,7 @@ https://takutoaoi.github.io/chakra-ui-ie11/build/index.html
 Also see:
 
 https://github.com/chakra-ui/chakra-ui/issues/2498
+
 https://github.com/chakra-ui/chakra-ui/pull/2762
 
 ### 1.Install & Patch
