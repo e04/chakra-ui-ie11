@@ -15,7 +15,7 @@ https://github.com/chakra-ui/chakra-ui/issues/2498
 
 https://github.com/chakra-ui/chakra-ui/pull/2762
 
-### 1.Install & Patch
+### 1.Install
 
 `npm ci`
 
